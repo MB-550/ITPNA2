@@ -1,1 +1,6 @@
-
+{
+  "Students" : [
+    {"StudentID" : 1234, "name" : "Makeel" , "Course" : "IT"},
+    {"StudentID" : 2468, "name" : "Amaan" , "Course" : "Data Science"}
+  ]
+}
