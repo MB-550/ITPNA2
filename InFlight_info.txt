@@ -1,0 +1,1 @@
+Altitude:50000;Speed:700;Temperature:60

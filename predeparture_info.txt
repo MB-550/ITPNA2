@@ -1,0 +1,3 @@
+Aircraft status; Ready for departure,Passenger boarding number;125,Fuelling;Completed,Door state;Open,Push back time;18:00
+Aircraft status;in progress,Passenger boarding number;1215,Fuelling;Complete,Door state;open,Push back time;12:54
+Aircraft status;Boarding,Passenger boarding number;111,Fuelling;in progress,Door state;open,Push back time;16:45
